@@ -5,8 +5,9 @@ A simple bash scripting to bruteforce instagram account
 - git clone https://github.com/code-developers/ighack
 - cd ighack
 - chmod +x *
+- bash setup.sh
 - bash ighack.sh
 
 ```
-make sure you have installed tor
+Note: use this tool for legal purpose
 ```
